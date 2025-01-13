@@ -1,6 +1,6 @@
 {
-  "name": "wxt-react-starter",
-  "description": "manifest.json description",
+  "name": "noplacelikehome",
+  "description": "secure native, cross-platform password manager",
   "private": true,
   "version": "0.0.0",
   "type": "module",
